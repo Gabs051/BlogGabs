@@ -1,0 +1,3 @@
+/*
+    Cabeçalho comum do site
+*/

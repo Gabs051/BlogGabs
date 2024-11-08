@@ -1,0 +1,3 @@
+/*
+    Rodape comum do site
+*/
