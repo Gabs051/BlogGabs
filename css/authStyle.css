@@ -23,6 +23,7 @@ body {
     overflow: hidden;
     position: relative;
     z-index: 1;
+
 }
 
 #form-title-auth {

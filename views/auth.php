@@ -15,7 +15,7 @@
         <h2 id="form-title-auth">Login</h2>
 
         <!-- Formulário de Login -->
-        <form action="../auth_process.php" method="post" id="login-form-auth" style="display: block;">
+        <form action="../auth_process.php" method="post" id="login-form-auth" style="display: block;" autocomplete="off">
             <label for="email">Email:</label>
             <input type="email" name="email" id="email" required placeholder="email@test.com" maxlength="100" minlength="3">
 
