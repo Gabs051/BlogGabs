@@ -4,8 +4,8 @@
     */
 
     $DB_SERVER = "localhost";
-    $DB_USER = "root";
-    $DB_PASS = "";
+    $DB_USER = "gabs";
+    $DB_PASS = "g4bs";
     $DB_NAME = "blog_db";
 
     try {

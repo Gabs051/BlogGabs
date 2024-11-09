@@ -7,7 +7,7 @@
         $email = $_POST['email'];
         $senha = password_hash($_POST['senha'], PASSWORD_DEFAULT);
 
-        $sql = "INSERT INTO users (nome, email, senha, tipo) VALUES (?, ?, ?, 'visitante')";
+        $sql = "INSERT INTO user (username, email, password, role) VALUES (?, ?, ?, 'visitor')";
         $stmt = $connect -> prepare($sql);
 
         if ($stmt -> execute([$nome, $email, $senha])) {
@@ -19,12 +19,12 @@
         $email = $_POST['email'];
         $senha = $_POST['senha'];
 
-        $sql = "SELECT * FROM users WHERE email = ?";
+        $sql = "SELECT * FROM user WHERE email = ?";
         $stmt = $connect -> prepare($sql);
         $stmt -> execute([$email]);
         $user = $stmt -> fetch();
 
-        if ($user && password_verify($senha, $user['senha'])) {
+        if ($user && password_verify($senha, $user['password'])) {
             $_SESSION['user_id'] = $user['id'];
             $_SESSION['user_tipo'] = $user['tipo'];
             echo "Login realizado com sucesso!";
