@@ -24,12 +24,9 @@ git clone https://github.com/seuusuario/gabsenit.git
 3. Acesse o projeto no seu navegador.
 
 ## GIF Aleatório
-Via GIPHY
+Aqui está um gif que demonstra o funcionamento do projeto:
 
-<iframe src="https://giphy.com/embed/4OV1bLOIWwIXRxpXlN" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ToeiAnimation-one-piece-zoro-swords-4OV1bLOIWwIXRxpXlN">via GIPHY</a></p>
-
-## Contribuições
-Sinta-se à vontade para fazer pull requests ou abrir issues com sugestões de melhorias.
+![Gif do projeto](https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif)
 
 ## Licença
 Este projeto está sob a licença MIT.
