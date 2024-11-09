@@ -24,7 +24,6 @@ git clone https://github.com/seuusuario/gabsenit.git
 3. Acesse o projeto no seu navegador.
 
 ## GIF Aleatório
-Aqui está um gif que demonstra o funcionamento do projeto:
 
 ![Gif do projeto](https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif)
 
