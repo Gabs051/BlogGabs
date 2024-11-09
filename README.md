@@ -23,10 +23,10 @@ git clone https://github.com/seuusuario/gabsenit.git
 
 3. Acesse o projeto no seu navegador.
 
-## GIF do Projeto
-Aqui está um gif que demonstra o funcionamento do projeto:
+## GIF Aleatório
+Via GIPHY
 
-<iframe src="COLE_AQUI_O_URL_DO_GIF" width="480" height="270" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://giphy.com/embed/4OV1bLOIWwIXRxpXlN" width="480" height="270" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Contribuições
 Sinta-se à vontade para fazer pull requests ou abrir issues com sugestões de melhorias.
