@@ -1,3 +1,3 @@
-/*
-    Rodape comum do site
-*/
+    </main>
+</body>
+</html>
